@@ -1,0 +1,7 @@
+version: 1
+
+sitemaps:
+  default:
+    origin: https://main--mspilotsandbox--pfizer.hlx.live
+    source: /sitemap-index.json
+    destination: /sitemap.xml
